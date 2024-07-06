@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatUp.Web", "ChatUp.Web\ChatUp.Web.csproj", "{10881172-0BBD-40B0-9712-B289E7DF6B01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatUp.DB", "ChatUp.DB\ChatUp.DB.csproj", "{61551600-AA1F-4D51-B5BD-32CF8811EFF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{10881172-0BBD-40B0-9712-B289E7DF6B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10881172-0BBD-40B0-9712-B289E7DF6B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10881172-0BBD-40B0-9712-B289E7DF6B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61551600-AA1F-4D51-B5BD-32CF8811EFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61551600-AA1F-4D51-B5BD-32CF8811EFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61551600-AA1F-4D51-B5BD-32CF8811EFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61551600-AA1F-4D51-B5BD-32CF8811EFF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
